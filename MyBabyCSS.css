@@ -1,0 +1,73 @@
+@font-face{
+    font-family: 'Rhapsody';
+    src: url(rhapsody_script.ttf) format("truetype");
+}
+
+@font-face{
+    font-family: 'Chopin';
+    src: url(ChopinScript.ttf) format("truetype");
+}
+
+body{
+    background-color: #1d2228;
+}
+
+h1{
+    font-family: 'Rhapsody';
+    color: #fb8122;
+    text-align: center;
+    font-size: 130px;
+}
+
+h2{
+    color: #e1e2e2;
+    text-align:center;
+    font-size: 90px;
+    font-weight: 1100;
+}
+
+p{
+    color: #e1e2e2;
+    text-align:center;
+    font-size: 49px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h4{
+    color: #e1e2e2;
+    text-align:center;
+    font-size: 70px;
+}
+
+
+h6{
+    background-color: #d48166;
+    text-align:center;
+}
+
+h7{
+    color: #373a36;
+    text-align:left;
+    font-size: 39px;
+    font-weight: 200;
+}
+
+h8{
+    color: #e6e2dd;
+    text-align:center;
+    font-size: 55px;
+}
+
+h9{
+    font-family: 'Chopin';
+    color: #e6e2dd;
+    text-align:center;
+    font-size: 70px;
+    font-weight: lighter;
+}
